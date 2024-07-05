@@ -1,6 +1,7 @@
 import pygame                   # importing game modules
 import random                   # importing the randomizing module
 from json import load, dump     # importing a module to handle json files
+from pyscript import document
 
 
 pygame.init() # initialization of game modules
